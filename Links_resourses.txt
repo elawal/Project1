@@ -7,3 +7,7 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html
 https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-value-in-groups-using-groupby
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.idxmax.html
 https://www.geeksforgeeks.org/ways-to-filter-pandas-dataframe-by-column-values/
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.copy.html
+https://stackoverflow.com/questions/40224319/pandas-series-to-dataframe-using-series-indexes-as-columns
+https://stackoverflow.com/questions/10369681/how-to-plot-bar-graphs-with-same-x-coordinates-side-by-side-dodged
+https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/
