@@ -1,0 +1,9 @@
+Resources used: 
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.count.html
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.diff.html
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html
+https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-value-in-groups-using-groupby
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.idxmax.html
+https://www.geeksforgeeks.org/ways-to-filter-pandas-dataframe-by-column-values/
