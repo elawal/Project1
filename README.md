@@ -1,8 +1,14 @@
 # The COVID Tracking Project
-# Project 1 Group 2
+
+Project 1 Group 2
 
 Website Address: https://covidtracking.com/data/api
-Data API: https://api.covidtracking.com/v1/states/current.json
+
+Data API: 
+
+Historic values for all states
+
+https://api.covidtracking.com/v1/states/current.json
 
 ## Group Members:
 
