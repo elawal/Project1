@@ -27,6 +27,6 @@ Are there any increases in hospitalizations? If so, which state increased the fa
 Are there any states that, saw a decrease in Covid-19 hospitalizations in years 2020 and 2021? 
 Total number of hospitalizations on both years in each state.
 
-## Question 4 by Elizabeth
+## Question 4 by Elizabeth:
 
 Are there any states that had a correlation between the number of positive results and the increase in number of deaths?
